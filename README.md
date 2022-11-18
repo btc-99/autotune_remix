@@ -7,3 +7,4 @@
 3. 将项目需要的 midi 文件放置在文件根目录下，并命名为 "midi_file.mid"
 4. 运行文件 launch.py 
 5. 可以在 launch.py 中设置文件拉伸的长度
+6. 运行完毕后，会生成一个 output_videos 文件夹，里面按照顺序依次给出了相应的编辑
