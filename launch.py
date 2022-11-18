@@ -27,7 +27,7 @@ except FileExistsError:
 raw_audio_name = "raw_audioclip.wav"
 audio_name = "audioclip.wav"
 # 设置一下拉伸长度
-coff = 1.5
+coff = 1.0
 
 for i in range(length):
     track = all_list[i]
