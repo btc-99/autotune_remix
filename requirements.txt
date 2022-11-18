@@ -1,0 +1,6 @@
+librosa
+soundfile
+shutil
+tqdm
+moviepy
+mido
