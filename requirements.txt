@@ -1,6 +1,5 @@
-librosa
-soundfile
-shutil
-tqdm
-moviepy
-mido
+librosa==0.9.2
+mido==1.2.10
+moviepy==1.0.3
+soundfile==0.11.0
+tqdm==4.64.1
